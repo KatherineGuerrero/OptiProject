@@ -1,0 +1,65 @@
+﻿    Variable            X 
+-------------------------
+x_granadina_Día1         7.25 
+x_helado_Día1     0.792857 
+x_pipeno_Día1      17.9929 
+x_granadina_Día2         7.25 
+x_helado_Día2      20.7857 
+x_pipeno_Día2      67.9857 
+ x_vaso_Día2    0.0357143 
+x_helado_Día3      19.0286 
+x_pipeno_Día3      81.7286 
+x_bombilla_Día3          660 
+ x_vaso_Día3    0.0285714 
+x_granadina_Día4        25.25 
+x_helado_Día4      15.7714 
+x_pipeno_Día4      92.9714 
+x_bombilla_Día4          505 
+ x_vaso_Día4    0.0214286 
+x_granadina_Día5           17 
+x_helado_Día5      11.0143 
+x_pipeno_Día5           85 
+x_bombilla_Día5          340 
+ x_vaso_Día5    0.0142857 
+x_granadina_Día6          8.5 
+x_helado_Día6      5.50714 
+x_pipeno_Día6         42.5 
+x_bombilla_Día6          170 
+ x_vaso_Día6   0.00714286 
+      w_Día1          128 
+      w_Día3          145 
+      w_Día4          155 
+      w_Día5          165 
+      w_Día6          170 
+      w_Día7          170 
+Y_Día1_granadina_Proveedor3        13.65 
+Y_Día1_helado_Proveedor3      19.9929 
+Y_Día1_pipeno_Proveedor3      49.9929 
+Y_Día1_bombilla_Proveedor3          128 
+Y_Día1_vaso_Proveedor3          128 
+Y_Día2_helado_Proveedor3      19.9929 
+Y_Día2_pipeno_Proveedor3      49.9929 
+Y_Día2_vaso_Proveedor3    0.0357143 
+Y_Día3_helado_Proveedor3      19.9929 
+Y_Día3_pipeno_Proveedor3      49.9929 
+Y_Día3_bombilla_Proveedor3          805 
+Y_Día3_vaso_Proveedor3      144.993 
+Y_Día4_granadina_Proveedor3           33 
+Y_Día4_helado_Proveedor3      19.9929 
+Y_Día4_pipeno_Proveedor3      49.9929 
+Y_Día4_vaso_Proveedor3      154.993 
+Y_Día5_helado_Proveedor3      19.9929 
+Y_Día5_pipeno_Proveedor3      33.2786 
+Y_Día5_vaso_Proveedor3      164.993 
+Y_Día6_helado_Proveedor3      19.9929 
+Y_Día6_vaso_Proveedor3      169.993 
+Y_Día7_helado_Proveedor3      19.9929 
+Y_Día7_vaso_Proveedor3      169.993 
+delta_Proveedor3_Día1            1 
+delta_Proveedor3_Día2            1 
+delta_Proveedor3_Día3            1 
+delta_Proveedor3_Día4            1 
+delta_Proveedor3_Día5            1 
+delta_Proveedor3_Día6            1 
+delta_Proveedor3_Día7            1 
+ObjValue: -402799.50000000093
