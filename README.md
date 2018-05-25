@@ -1,2 +1,2 @@
-# OptiProyect
+# OptiProject
 GurobiModel
